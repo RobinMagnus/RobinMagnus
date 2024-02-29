@@ -25,12 +25,19 @@ Bem-vindo ao meu perfil do GitHub. Sou apaixonado por Backend, e aqui você enco
 
 - [Projeto-Impacta-APTAR](https://github.com/CodeByTeusSilva/Projeto-Impacta-APTAR): Projeto da faculade: Este projeto tem como objetivo, criar uma aplicação que ira auxiliar tecnicos e empresas, nas adequações elétricas em todo Brasil.
 
+### 🏆 Certificações e Conquistas
+- [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/): A certificação Oracle Cloud Infrastructure (OCI) Foundations é para indivíduos que pretendem demonstrar conhecimento fundamental de serviços de nuvem pública fornecidos pela Oracle Cloud Infrastructure (OCI).
+
 ### 📫 Como me Encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-alves-de-oliveira-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-178398234/)
 
+
 ### 🎉 Agradecimentos
 
 Agradeço por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato. Vamos colaborar e construir coisas incríveis juntos! 🚀
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobinMagnus&show_icons=true&theme=dracula)
+
 
 
