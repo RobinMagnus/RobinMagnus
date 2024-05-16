@@ -37,7 +37,5 @@ Bem-vindo ao meu perfil do GitHub. Sou apaixonado por Backend, e aqui você enco
 
 Agradeço por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato. Vamos colaborar e construir coisas incríveis juntos! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobinMagnus&show_icons=true&theme=dracula)
-
 
 
