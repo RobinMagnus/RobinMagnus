@@ -23,8 +23,8 @@ Bem-vindo ao meu perfil do GitHub. Sou apaixonado por Backend, e aqui você enco
 
 ### 🌱 Projetos Atuais
 
-- [Projeto-Impacta-APTAR](https://github.com/CodeByTeusSilva/Projeto-Impacta-APTAR): Projeto da faculade: Este projeto tem como objetivo, criar uma aplicação que ira auxiliar tecnicos e empresas, nas adequações elétricas em todo Brasil.
-
+- [Calculo de Fretes](https://github.com/RobinMagnus/calculoDeFrete/tree/main): Projeto de estudos: Este projeto tem como objetivo, criar uma aplicação que ira auxiliar no calculo de fretes de mercadorias.
+  
 ### 🏆 Certificações e Conquistas
 - [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/): A certificação Oracle Cloud Infrastructure (OCI) Foundations é para indivíduos que pretendem demonstrar conhecimento fundamental de serviços de nuvem pública fornecidos pela Oracle Cloud Infrastructure (OCI).
 
